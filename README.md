@@ -1,1 +1,1 @@
-# Tampered-Image-Dataset
+# Manipulated-Image-Dataset
